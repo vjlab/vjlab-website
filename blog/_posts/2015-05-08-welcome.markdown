@@ -1,0 +1,6 @@
+---
+layout: post
+title:  Welcome!
+author: Vijaykrishna Dhanasekaran
+---
+This website is an effort to capture the research progress of the newly established [Laboratory of Infectious Disease Dynamics](https://www.duke-nus.edu.sg/content/dhanasekaran-vijaykrishna) at [Duke-NUS Graduate Medical School](https://www.duke-nus.edu.sg/eid/content/vijaykrishna-dhanasekaran), Singapore.  In addition to lab and publication updates, we will also aim to present result summaries of ongoing projects.

@@ -1,0 +1,15 @@
+---
+layout: paper
+title: Extended evaluation of virological, immunological and pharmacokinetic endpoints of CELADEN - a randomized controlled trial of celgosivir in dengue fever patients
+authors: Sung C, Wei Y, Watanabe S, Lee HS, Khoo YM, Fan L, Rathore APS, Chan K W-K, Choy MM, Kamaraj US, Sessions OM, Aw P, Sessions PF, Lee B, Connolly JE, Hibberd ML, Vijaykrishna D, Wijaya L, Ooi EE,  Low J G-H, Vasudevan SG.  
+year: 2016
+ref: Sung et al. 2016. PLoS Neglected Tropical Diseases.
+journal: "PLoS NTD 10(8):e0004851."
+pdf: /pdfs/papers/sung(2016a)plosntd.pdf
+image: /images/papers/celaden.png
+doi: 10.1371/journal.pntd.0004851
+---
+
+# Abstract
+CELADEN was a randomized placebo-controlled trial of 50 patients with confirmed dengue fever to evaluate the efficacy and safety of celgosivir (A study registered at ClinicalTrials. gov, number NCT01619969). Celgosivir was given as a 400 mg loading dose and 200 mg bid (twice a day) over 5 days. Replication competent virus was measured by plaque assay and compared to reverse transcription quantitative PCR (qPCR) of viral RNA. Pharmacokinetics (PK) correlations with viremia, immunological profiling, next generation sequence (NGS) analysis and hematological data were evaluated as exploratory endpoints here to identify possible signals of pharmacological activity. Viremia by plaque assay strongly correlated with qPCR during the first four days. Immunological profiling demonstrated a qualitative shift in T helper cell profile during the course of infection. NGS analysis did not reveal any prominent signature that could be associated with drug treatment; however the phylogenetic spread of patients’ isolates underlines the importance of strain variability that may potentially confound interpretation of dengue drug trials conducted during different out- breaks and in different countries. Celgosivir rapidly converted to castanospermine (Cast) with mean peak and trough concentrations of 5727 ng/mL (30.2 μM) and 430 ng/mL
+(2.3 μM), respectively and cleared with a half-life of 2.5 (± 0.6) hr. Mean viral log reduction between day 2 and 4 (VLR2-4) was significantly greater in secondary dengue than primary dengue (p = 0.002). VLR2-4 did not correlate with drug AUC but showed a trend of greater response with increasing Cmin. PK modeling identified dosing regimens predicted to achieve 2.4 to 4.5 times higher Cmin. than in the CELADEN trial for only 13% to 33% increase in overall dose. A small, non-statistical trend towards better outcome on platelet nadir and difference between maximum and minimum hematocrit was observed in celgosivir-treated patients with secondary dengue infection. Optimization of the dosing regimen and patient stratification may enhance the ability of a clinical trial to demonstrate celgosivir activity in treating dengue fever based on hematological endpoints. A new clinical trial with a revised dosing regimen is slated to start in 2016 (NCT02569827). Furthermore celgosivir’s potential value for treatment of other flaviruses such as Zika virus should be investigated urgently.
