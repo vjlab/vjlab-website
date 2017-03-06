@@ -5,7 +5,7 @@ authors: Quiñones-Parra S, Clemens B, Wang Z, Croom HA, Kedzierski L, McVernon 
 year: 2016
 ref: Quinones-Parra et al. 2016. Journal of Virology.
 journal: "J Virol 90:6936-6947."
-pdf: /pdfs/papers/quiñones-parra(2016a)jv.pdf
+pdf: /pdfs/papers/quinones-parra(2016a)jv.pdf
 image: /images/papers/exposurehistory.png
 doi: 10.1128/JVI.00349-16
 ---
