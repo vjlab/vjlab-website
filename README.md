@@ -6,10 +6,10 @@ This is a fork of Trevor Bedfords's website [bedford.io](http://bedford.io).
 To build the website locally, clone the repo with:
 
 ```
-git clone https://github.com/iddlab/vjlab.git
+git clone https://github.com/iddlab/lab.git
 ```
 
-Then install necessary Ruby dependencies by running `bundle install` from within the `blotter` directory.  After this, the site can be be built with:
+Then install necessary Ruby dependencies by running `bundle install` from within the `lab` directory.  After this, the site can be built with:
 
 ```
 jekyll build
