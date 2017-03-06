@@ -3,7 +3,7 @@ layout: member
 title: Celeste Donato
 position: Research Fellow
 handle: cdonato
-email: celeste.donato@duke-nus.edu.sg
+email: celeste.donato@monash.edu
 twitter: celeste_donato
 github:
 scholar:
