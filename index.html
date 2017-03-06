@@ -34,7 +34,7 @@ categories:
 		</div>
 		<div class="bigspacer"></div>
 		<div class="feedbox pad-left">
-			{% for post in site.categories.blog limit:8 %}
+			{% for post in site.categories.blog limit:4 %}
 
 				{% for member in site.categories.team %}
 					{% if member.title == post.author %}
@@ -94,7 +94,7 @@ categories:
 		</div>
 		<div class="bigspacer"></div>
 		<div class="feedbox pad-left">
-			{% for project in site.data.projects limit:8 %}
+			{% for project in site.data.projects limit:4 %}
 				<div class="note">
 					<i class="fa fa-edit fa-fw"></i>
 					<a class="off" href="{{ project.url }}">
