@@ -1,13 +1,13 @@
 ---
 layout: default
 title: Vijaykrishna lab / blog
-categories: 
+categories:
  - blog
 category: blog
 ---
 
 <div class="pager">
-  
+
 	{% if paginator.previous_page %}
 		{% if paginator.previous_page == 1 %}
 		<a class="prev" href="/{{ page.category }}/">
@@ -17,25 +17,25 @@ category: blog
 		<a class="prev" href="/{{ page.category }}/page{{ paginator.previous_page }}">
 			<i class="fa fa-chevron-left fa-lg"></i>
 		</a>
-		{% endif %}  		
-	{% endif %}  
-  
-	{% if paginator.next_page %}  
+		{% endif %}
+	{% endif %}
+
+	{% if paginator.next_page %}
 	<a class="next" href="/{{ page.category }}/page{{ paginator.next_page }}">
 		<i class="fa fa-chevron-right fa-lg"></i>
-	</a>	
-	{% endif %}  	
-    
+	</a>
+	{% endif %}
+
 </div>
 
-{% for post in paginator.posts %}
+{% for post in site.categories.blog %}
 
 		{% for member in site.categories.team %}
 			{% if member.title == post.author %}
 				{% assign author = member %}
 			{% endif %}
 		{% endfor %}
-	
+
 		<div class="bigspacer"></div>
 		<div class="row">
 			<div class="col-md-3">
@@ -46,24 +46,24 @@ category: blog
 					{{ post.date | date_to_string }}
 					{% if author %}
 					by <a class="off" href="{{ author.url }}">{{ author.handle }}</a>
-					{% endif %}				
-				</div>	
+					{% endif %}
+				</div>
 			</div>
-			<div class="col-md-8">		
-				<div style="height:5px;"></div>			
+			<div class="col-md-8">
+				<div style="height:5px;"></div>
 				{% if post.image %}
 				<a href="{{ post.url }}"><img class="offset" src="{{ post.image }}"></a>
 				{% endif %}
 				<div class="post">
 					{{ post.content }}
 				</div>
-			</div>			
+			</div>
 			<div class="col-md-1"></div>
-		</div>		
+		</div>
 
 {% endfor %}
 
-<div class="bigspacer"></div>	
+<div class="bigspacer"></div>
 <div class="row">
 	<div class="col-md-12 text-center">
 		<a class="off" href="/{{ page.category }}/archive/">
