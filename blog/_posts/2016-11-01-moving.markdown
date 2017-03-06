@@ -2,7 +2,8 @@
 layout: post
 title:  Moving to Monash University - We are also recruiting.
 author: Vijaykrishna Dhanasekaran
+image: /images/blog/melbourne_skyline.jpg
 ---
-I am excited to announce that the Laboratory of Infectious Diseases Dynamics has moved to the [Biomedicine Discovery Institute](https://www.monash.edu/discovery-institute) at  [Monash University](http://www.monash.edu), Melbourne. 
+The Infectious Diseases Dynamics Laboratory has moved to the [Biomedicine Discovery Institute](https://www.monash.edu/discovery-institute) at  [Monash University](http://www.monash.edu), Melbourne.
 
-We are currently recruiting *Research Fellows* at the postdoctoral level with training and experience in sequencing and computational biology to study the evolutionary genomics of infectious diseases. We are also recruiting *Research Assistants* to manage and assist in diagnostics of viral and bacterial pathogens, pcr and sequencing, and data curation and management.
+We are currently recruiting *Research Fellows* at the postdoctoral level with training and experience in [phylodynamics](https://dx.doi.org/10.1093/sysbio/syw054) to study the dynamics of seasonal influenza viruses. We are also recruiting *Research Assistants* to manage and assist in diagnostics of viral and bacterial pathogens, PCR and sequencing, and data curation and management.
