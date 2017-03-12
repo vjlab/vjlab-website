@@ -78,7 +78,7 @@ categories:
 				<li>
 					<i class="fa fa-check-square-o fa-fw"></i>
 					<a class="off" href="{{ commit.url }}">
-					{{ commit.date | date_to_string }} - <span class="text-gray">{{ commit.message }}</span>
+					{{ commit.date | date_to_string }} - <span class="text-gray">{{ commit.message | escape}}</span>
 					</a>
 				</li>
 			{% endfor %}
