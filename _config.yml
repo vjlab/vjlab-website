@@ -39,5 +39,4 @@ exclude:
   - "s3_website.yml"
 
 projects:
-  - vjdhanasekaran/gms6904
   - vjdhanasekaran/bms5003-week3
