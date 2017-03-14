@@ -39,4 +39,4 @@ exclude:
   - "s3_website.yml"
 
 projects:
-  - vjdhanasekaran/bms5003-week3
+  - vdha/bms5003-week3
