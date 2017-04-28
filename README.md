@@ -17,6 +17,12 @@ jekyll build
 
 To view the site, run `jekyll serve` and point a browser to `http://localhost:4000/`.  More information on Jekyll can be found [here](http://jekyllrb.com/).
 
+Not working? There have been [whiffs of a known error](https://github.com/jekyll/jekyll/issues/3084) since 2014. If the last step didn't work, try this instead:
+
+```
+bundle exec jekyll s
+```
+
 To include projects, preprocessing scripts are necessary to clone project repos and update Jekyll metadata. This can be accomplished with:
 
 ```
