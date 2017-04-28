@@ -6,14 +6,27 @@ This is a fork of Trevor Bedfords's website [bedford.io](http://bedford.io).
 To build the website locally, clone the repo with:
 
 ```
-git clone https://github.com/iddlab/lab.git
+git clone https://github.com/vjlab/vjlab-website.git
 ```
 
-Then install necessary Ruby dependencies by running `bundle install` from within the `lab` directory.  After this, the site can be built with:
+CD into the `vjlab-website` directory, and install the necessary Ruby dependencies:
+
+```
+bundle install
+```
+
+After this, the site can be built with:
 
 ```
 jekyll build
 ```
+
+Not working? There have been [whiffs of a known error](https://github.com/jekyll/jekyll/issues/3084) since 2014 about some kind of dependency not updating correctly. In that case, instead try:
+
+```
+bundle exec jekyll s
+```
+to start up the local web server.
 
 To view the site, run `jekyll serve` and point a browser to `http://localhost:4000/`.  More information on Jekyll can be found [here](http://jekyllrb.com/).
 
