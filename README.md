@@ -6,7 +6,7 @@ This is a fork of Trevor Bedfords's website [bedford.io](http://bedford.io).
 To build the website locally, clone the repo with:
 
 ```
-git clone https://github.com/iddlab/lab.git
+https://github.com/vjlab/vjlab-website
 ```
 
 Then install necessary Ruby dependencies by running `bundle install` from within the `lab` directory.  After this, the site can be built with:
@@ -23,13 +23,14 @@ Not working? There have been [whiffs of a known error](https://github.com/jekyll
 bundle exec jekyll s
 ```
 
-To include projects, preprocessing scripts are necessary to clone project repos and update Jekyll metadata. This can be accomplished with:
+## Activate `Projects` Submenu
+The `projects` page displays a selection of repositories to the website, such as the github repos of ongoing research projects, repos of code, etc. To include the `projects` submenu, preprocessing scripts are necessary to clone project repos and update Jekyll metadata. This can be accomplished with:
 
 ```
 ruby _scripts/update-and-preprocess.rb
 ```
 
-Then `jekyll build` works as normal.
+Then use `jekyll build`.
 
 **The MIT License (MIT)**
 
