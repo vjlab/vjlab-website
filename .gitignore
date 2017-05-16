@@ -6,7 +6,7 @@ _site/
 s3_website.yml
 
 # Projects
-projects/
+projects/*
 !projects/index.html
 
 # Jekyll metadata
