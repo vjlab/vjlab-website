@@ -41,3 +41,4 @@ exclude:
 projects:
   - vdha/bms5003-week3
   - Don86/mic-scrapbook
+  - vjlab/resources
