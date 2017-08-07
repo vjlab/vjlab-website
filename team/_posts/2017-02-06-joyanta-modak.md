@@ -2,7 +2,7 @@
 layout: member
 title: Joyanta Modak
 position: Research Fellow
-handle:
+handle: jmodak
 email: joyanta.modak@monash.edu
 twitter:
 github:

@@ -2,7 +2,7 @@
 layout: member
 title: Almaz Bailey
 position: Masters
-handle: FLast
+handle: abailey
 email: almaz.bailey@monash.edu
 twitter:
 github: AlmazBailey
