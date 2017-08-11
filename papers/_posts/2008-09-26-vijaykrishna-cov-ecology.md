@@ -2,9 +2,9 @@
 layout: paper
 title: Evolutionary insights into the ecology of coronaviruses.
 image: /images/papers/cov_ecology.png
-authors: Vijaykrishna D, Smith GJD, Zhang JX, Peiris JSM, Guan Y. 
+authors: Vijaykrishna D, Smith GJD, Zhang JX, Peiris JSM, Guan Y.
 year: 2007
-ref: Vijaykrishna et al. 2007. Journal of Virology.
+ref: Vijaykrishna et al. 2007. Journal of Virology
 journal: "8: 4012-20."
 pdf: /pdfs/papers/vijaykrishna(2007b)v.pdf
 doi: 10.1128/JVI.02605-06
