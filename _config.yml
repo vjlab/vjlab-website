@@ -39,6 +39,6 @@ exclude:
   - "s3_website.yml"
 
 projects:
-  - vdha/bms5003-week3
-  - Don86/mic-scrapbook
+#  - vdha/bms5003-week3
+#  - Don86/mic-scrapbook
   - vjlab/resources
