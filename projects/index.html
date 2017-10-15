@@ -33,3 +33,15 @@ categories:
     {% cycle 'close rows': nil, nil, '</div>' %}
 {% endfor %}
 {% cycle 'close rows': nil, '</div>', '</div>' %}
+
+<div class="spacer"></div>
+<ul class="list-inline">
+	{% for page in site.categories.misc %}
+	<li class="footernav">
+		&gt; <a class="off" href="{{ page.url }}">{{ page.title }}</a>
+	</li>
+	{% endfor %}
+	<li class="footernav">
+		&gt; <a class="off" href="/talks/">Talks</a>
+	</li>
+</ul>

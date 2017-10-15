@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: Rapid detection of reassortment of pandemic H1N1/2009 influenza virus.
-image: /images/papers/rapid.png
+#image: /images/papers/rapid.png
 authors: Poon LL, Mak PW, Li OT, Chan KH, Cheung CL, Ma ES, Yen HL, Vijaykrishna D, Guan Y, Peiris JS.
 year: 2010
 ref: Poon et al. 2010. Clin. Chem.

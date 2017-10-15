@@ -1,12 +1,12 @@
 ---
 layout: paper
 title: Temporally structured metapopulation dynamics and persistence of influenza A H3N2 virus in humans.
-image: /images/papers/temporalh3.png
 authors: Bahl J, Nelson MI, Chan KH, Chen R, Vijaykrishna D, Halpin RA, Stockwell TB, Lin X, Wentworth DE, Ghedin E, Guan Y, Peiris JS, Riley S, Rambaut A, Holmes EC, Smith GJ.
 year: 2011
 ref: Bahl et al. 2011. PNAS
 journal: "PNAS 108:19359-64."
 pdf: /pdfs/papers/bahl(2011a)pnas.pdf
+#image: /images/papers/temporalh3.png
 supplement:
 doi: 10.1073/pnas.1109314108
 ---
