@@ -51,7 +51,7 @@ categories:
 				<div class="smallspacer"></div>
 				<div class="smallnote">
 					Posted
-					{{ post.date | date: "%-d %b %Y" }}
+					{{ post.date | date_to_string }}
 					{% if author %}
 					by <a class="off" href="{{ author.url }}">{{ author.handle }}</a>
 					{% endif %}
@@ -80,7 +80,7 @@ categories:
 				<div class="smallspacer"></div>
 				<div class="smallnote">
 					Posted
-					{{ paper.date | date: "%-d %b %Y" }}
+					{{ paper.date | date_to_string }}
 				</div>
 				<div class="spacer"></div>
 				<div class="spacer"></div>
@@ -105,7 +105,7 @@ categories:
 				<div class="smallnote">
 					Updated
 					<a class="off" href="{{ project.commits.first.url }}">
-					{{ project.commits.first.date | date: "%-d %b %Y" }}
+					{{ project.commits.first.date | date_to_string }}
 					</a>
 					by
 					<a class="off" href="{{ project.commits.first.author_url }}">

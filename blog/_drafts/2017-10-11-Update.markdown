@@ -1,0 +1,7 @@
+---
+layout: post
+title:  Lab Update
+author: Vijaykrishna Dhanasekaran
+image: /images/blog/group-photo.jpg
+---
+<!-- some content here -->
