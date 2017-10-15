@@ -4,7 +4,7 @@ url: http://vjlab.io
 
 markdown: redcarpet
 permalink: /:categories/:title/
-future: true
+future: false
 
 redcarpet:
   extensions:
