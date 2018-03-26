@@ -8,5 +8,5 @@ twitter:
 github:
 scholar:
 cv:
-alumni: false
+alumni: true
 ---

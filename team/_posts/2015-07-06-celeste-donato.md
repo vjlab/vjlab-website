@@ -1,6 +1,7 @@
 ---
 layout: member
 title: Celeste Donato
+lastname: Donato
 position: Research Fellow
 handle: cdonato
 email: celeste.donato@monash.edu
