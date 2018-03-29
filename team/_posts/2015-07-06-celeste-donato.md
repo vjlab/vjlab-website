@@ -9,6 +9,7 @@ twitter: celeste_donato
 github:
 scholar:
 image: /images/team/celeste.jpg
+alumni: false
 cv:
 ---
 
