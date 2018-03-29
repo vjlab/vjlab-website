@@ -1,7 +1,8 @@
 ---
 layout: member
 title: Almaz Bailey
-position: Masters
+lastname: Bailey
+position: Masters student
 handle: abailey
 email: almaz.bailey@monash.edu
 twitter:
