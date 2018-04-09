@@ -8,6 +8,7 @@ email: almaz.bailey@monash.edu
 twitter:
 github: AlmazBailey
 scholar:
+image: /images/team/almaz.jpg
 cv:
 alumni: false
 ---
