@@ -10,7 +10,7 @@ github: AlmazBailey
 scholar:
 image: /images/team/almaz.jpg
 cv:
-alumni: false
+alumni: true
 ---
 I am currently completing the placement year of my Masters in Biomedicine and Health Sciences at Monash University. I previously completed my Bachelor of Science, majoring in Microbiology and Immunology, and have a keen interest in understanding the host-pathogen interactions that occur during infection and disease.
 
