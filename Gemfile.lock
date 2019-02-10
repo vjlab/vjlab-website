@@ -1,8 +1,8 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    addressable (2.5.0)
-      public_suffix (~> 2.0, >= 2.0.2)
+    addressable (2.5.2)
+      public_suffix (>= 2.0.2, < 4.0)
     colorator (0.1)
     commonjs (0.2.7)
     css_press (0.3.2)
@@ -10,9 +10,9 @@ GEM
       json
     csspool-st (3.1.2)
     execjs (2.7.0)
-    faraday (0.11.0)
+    faraday (0.15.2)
       multipart-post (>= 1.2, < 3)
-    ffi (1.9.17)
+    ffi (1.10.0)
     html_press (0.8.2)
       htmlentities
       multi_css (>= 0.1.0)
@@ -32,19 +32,20 @@ GEM
       jekyll
       multi_css (>= 0.1.0)
       multi_js (>= 0.1.0)
-    jekyll-sass-converter (1.5.0)
+    jekyll-sass-converter (1.5.2)
       sass (~> 3.4)
-    jekyll-watch (1.5.0)
-      listen (~> 3.0, < 3.1)
-    json (2.0.3)
-    kramdown (1.13.2)
+    jekyll-watch (1.5.1)
+      listen (~> 3.0)
+    json (2.1.0)
+    kramdown (1.17.0)
     less (2.6.0)
       commonjs (~> 0.2.7)
-    libv8 (3.16.14.17)
+    libv8 (3.16.14.19)
     liquid (3.0.6)
-    listen (3.0.8)
+    listen (3.1.5)
       rb-fsevent (~> 0.9, >= 0.9.4)
       rb-inotify (~> 0.9, >= 0.9.7)
+      ruby_dep (~> 1.2)
     mercenary (0.3.6)
     multi_css (0.1.0)
       css_press
@@ -52,17 +53,22 @@ GEM
       uglifier (~> 2)
     multipart-post (2.0.0)
     netrc (0.11.0)
-    octokit (4.6.2)
+    octokit (4.10.0)
       sawyer (~> 0.8.0, >= 0.5.3)
-    public_suffix (2.0.5)
-    rb-fsevent (0.9.8)
-    rb-inotify (0.9.8)
-      ffi (>= 0.5.0)
+    public_suffix (3.0.3)
+    rb-fsevent (0.10.3)
+    rb-inotify (0.9.10)
+      ffi (>= 0.5.0, < 2)
     redcarpet (3.4.0)
     ref (2.0.0)
     rouge (1.11.1)
+    ruby_dep (1.5.0)
     safe_yaml (1.0.4)
-    sass (3.4.23)
+    sass (3.5.7)
+      sass-listen (~> 4.0.0)
+    sass-listen (4.0.0)
+      rb-fsevent (~> 0.9, >= 0.9.4)
+      rb-inotify (~> 0.9, >= 0.9.7)
     sawyer (0.8.1)
       addressable (>= 2.3.5, < 2.6)
       faraday (~> 0.8, < 1.0)
@@ -86,4 +92,4 @@ DEPENDENCIES
   therubyracer
 
 BUNDLED WITH
-   1.14.5
+   1.16.2
