@@ -2,7 +2,7 @@
 layout: member
 title: Celeste Donato
 lastname: Donato
-position: Research Fellow
+position: NHMRC Peter Doherty Early Career Research Fellow
 handle: cdonato
 email: celeste.donato@monash.edu
 twitter: celeste_donato
