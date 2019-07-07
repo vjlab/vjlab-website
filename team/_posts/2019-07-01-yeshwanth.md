@@ -1,6 +1,6 @@
 ---
 layout: member
-title: Yeshwanth
+title: Yeshwanth Yeraddu
 lastname: Yeraddu
 position: Masters Research Student
 email: yyer0001@student.monash.edu
