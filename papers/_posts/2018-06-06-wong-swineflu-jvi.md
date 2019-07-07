@@ -4,7 +4,7 @@ title: Divergent human origin influenza viruses detected in Australian swine pop
 authors: Wong FYK, Donato C, Deng YM, Teng D, Komadina N, Baas C, Modak J, O’Dea M, Smith DW, Effler PV, Cooke J, Davies KR, Hurt AC, Kung N, Levy A, Loh R, Shan S, Shinwari  MW, Stevens V, Taylor J, Williams DT, Watson  J, Eagles D, McCullough S, Barr IG, Dhanasekaran V.
 year: 2018
 ref: Wong et al. 2018. Journal of Virology
-journal: "Journal of Virology _in press_ "
+journal: "Journal of Virology 93: e00316-18"
 #pdf: /pdfs/papers/donato(2017a)viruses.pdf
 image: /images/papers/wong-swineflu.png
 doi: 10.1128/JVI.00316-18

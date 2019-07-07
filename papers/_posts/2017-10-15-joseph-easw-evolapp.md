@@ -4,9 +4,9 @@ title: Adaptive evolution during the establishment of European avian-like H1N1 i
 authors: Joseph U, Vijaykrishna D, Smith GJ, Su YC
 year: 2017
 ref: Joseph et al. 2017. Evolutionary Applications
-journal: "Evolutionary Applications _In Press_"
-#pdf: /pdfs/papers/.pdf
-#image: /images/papers/ev71-vnm.png
+journal: "Evolutionary Applications 11:534–546"
+#pdf: /pdfs/papers/udayan.pdf
+#image: /images/papers/udayan.png
 doi: 10.1111/eva.12536
 ---
 
