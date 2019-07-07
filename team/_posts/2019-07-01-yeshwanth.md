@@ -4,9 +4,9 @@ title: Yeshwanth Yeraddu
 lastname: Yeraddu
 position: Masters Research Student
 email: yyer0001@student.monash.edu
-twitter: {optional}
-github: {optional}
-scholar: {optional}
+twitter:
+github:
+scholar:
 image: /images/team/ 
 ---
 
