@@ -9,7 +9,7 @@ twitter: celeste_donato
 github: https://github.com/CelesteD
 scholar: https://scholar.google.com.au/citations?user=Ia9UhdUAAAAJ&hl=en
 image: /images/team/celeste.jpg
-alumni: false
+alumni: flase
 cv:
 ---
 
