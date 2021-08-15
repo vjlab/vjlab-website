@@ -1,11 +1,12 @@
 ---
 layout: paper
 title: Dengue disease severity caused by elevated secreted NS1 arising from a single T164S mutation
+image: /images/papers/chan-t164s.png
 authors: Chan KWK, Watanabe S, Jin JY, Pompon J, Teng D, Alonso S, Vijaykrishna D, Halstead SB, Marzinek J, Bond PJ, Burla B, Torta F, Wenk MR, Ooi EE, Vasudevan SG
+year: 2019
 ref: Chan et al. 2019. Science Translational Medicine
 journal: "Science Translational Medicine 11(498): eaat7726"
 pdf: /pdfs/papers/chan(2019)stm.pdf
-image: /images/papers/chan-t164s.png
 doi: 10.1126/scitranslmed.aat7726
 ---
 

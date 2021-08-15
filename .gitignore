@@ -6,11 +6,14 @@ _site/
 s3_website.yml
 
 # Projects
-projects/*
+projects/
 !projects/index.html
 
-# Jekyll metadata
+# Jekyll build process
+.jekyll-cache
 .jekyll-metadata
+.sass-cache
 
 # Other files
 .DS_Store
+.tweet-cache

@@ -17,7 +17,7 @@ module Jekyll
 			parsed = Liquid::Template.parse(@markup).render context
 			url = parsed.split(/ /).first
 			if url =~ /^\//
-				url = "http://vjlab.io" + url
+				url = "http://bedford.io" + url
 			end
 			text = parsed.split(/ /).drop(1).join(' ')
 			html = ""

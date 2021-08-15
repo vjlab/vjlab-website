@@ -9,7 +9,7 @@ twitter: celeste_donato
 github: LPerlaza
 scholar:
 image: /images/team/laura.jpg
-alumni: false
+alumni: true
 cv:
 ---
 

@@ -6,7 +6,7 @@ categories:
 ---
 
 <div class="row">
-	<div class="col-md-12">
+	<div class="col-lg-12">
 	<object class="pull-left biglogo" data="/images/logo.svg" type="image/svg+xml"></object>
 		<div class="bigtitle logobox">
 			Disease Ecology and Evolutionary Genetics
@@ -17,128 +17,194 @@ categories:
 <div class="bigspacer"></div>
 
 <div class="row">
-	<div class="col-md-12">
+	<div class="col-lg-12">
 		<div class="smallhead">
-      Our research has been to apply computational and experimental methods at the intersection of medicine, epidemiology and population genetics to identify factors that shape the emergence and evolution of rapidly evolving pathogens.
-      To achieve this goal we:
-      <ol>
-      <li>conduct virus surveillance in animal, humans, and the environment,</li>
-      <li>characterise virus genomes and virus-host interactions using next-generation sequencing methods, and </li>
-      <li>apply computational methods to integrate the sequence data with clinical, epidemiological and immunological data that are generated from disease surveillance and laboratory experiments.</li>
-      </ol>
-      These include, to investigate factors affecting the diversity and evolution of pathogens in their natural reservoirs such as birds and bats; in livestock production systems; to elucidate origins of human pandemics; and to infer factors affecting the transmission of human pathogens as driven by host innate and adaptive immune systems.
-      <br/> <br/>
-      Our primary organism of study is influenza, due to its rapidly evolving small malleable genomes, although we have ongoing projects in gastroenteric pathogens such as Rotavirus and Enterovirus 71, vector-borne pathogens such as Dengue and Ross River, and more recently on the genomics of bacterial pathogens such as <i>Klebsiella pneumoniae</i> and <i>Pseudomonas aeruginosa</i>.
+		The overarching goal of Vijay lab has been to apply computational and experimental methods at the intersection of medicine, epidemiology and population genetics to identify factors that shape the emergence and evolution of rapidly evolving pathogens.
+      	To achieve this goal we:
+      	<ol>
+	      <li>conduct virus surveillance in animal, humans, and the environment,</li>
+    	  <li>characterise virus genomes and virus-host interactions using next-generation sequencing methods, and </li>
+	      <li>apply a wide range of computational methods to describe within-host and population scale dynamics, including phylogenetics, population genetics and mathematical models to integrate genomics with clinical, epidemiological and immunological data generated from disease surveillance and laboratory experiments.
+	    </ol>
+	 	Our primary organism of study is influenza, due to its rapidly evolving small malleable genomes, although we have ongoing projects in gastroenteric pathogens such as Rotavirus and Enterovirus 71, vector-borne pathogens such as Dengue and Ross River, and more recently on the genomics of bacterial pathogens such as <i>Klebsiella pneumoniae</i> and <i>Pseudomonas aeruginosa</i>.`
+    <br/> <br/>
+     
     </div>
 	</div>
 </div>
 
-<div class="hugespacer"></div>
-
-<div class="row">
-  <div class="col-md-4">
-		<div class="head">
-			<a class="off" href="/papers/">Papers</a>
-		</div>
-		<div class="bigspacer"></div>
-		<div class="feedbox pad-left">
-			{% for paper in site.categories.papers limit:8 %}
-				<div class="note">
-					<i class="fa fa-file-text-o fa-fw"></i>
-					<a class="off" href="{{ paper.url }}">
-					{{ paper.title }}
-					</a>
-				</div>
-				<div class="smallspacer"></div>
-				<div class="smallnote">
-					Posted
-					{{ paper.date | date_to_string }}
-				</div>
-				<div class="spacer"></div>
-				<div class="spacer"></div>
-			{% endfor %}
-		</div>
-		<div class="bigspacer"></div>
-	</div>
-
-  <div class="col-md-4">
-		<div class="head">
-			<a class="off" href="/blog/">Posts</a>
-		</div>
-		<div class="bigspacer"></div>
-		<div class="feedbox pad-left">
-			{% for post in site.categories.blog limit:4 %}
-
-				{% for member in site.categories.team %}
-					{% if member.title == post.author %}
-						{% assign author = member %}
-					{% endif %}
-				{% endfor %}
-
-				<div class="note">
-					<i class="fa fa-comment-o fa-fw"></i>
-					<a class="off" href="{{ post.url }}">
-					{{ post.title }}
-					</a>
-				</div>
-				<div class="smallspacer"></div>
-				<div class="smallnote">
-					Posted
-					{{ post.date | date_to_string }}
-					{% if author %}
-					by <a class="off" href="{{ author.url }}">{{ author.handle }}</a>
-					{% endif %}
-				</div>
-				<div class="spacer"></div>
-				<div class="spacer"></div>
-			{% endfor %}
-		</div>
-		<div class="bigspacer"></div>
-	</div>
-
-	<div class="col-md-4">
-		<div class="head">
-			<a class="off" href="/projects/">Projects</a>
-		</div>
-		<div class="bigspacer"></div>
-		<div class="feedbox pad-left">
-			{% for project in site.data.projects limit:4 %}
-				<div class="note">
-					<i class="fa fa-edit fa-fw"></i>
-					<a class="off" href="{{ project.url }}">
-					{{ project.title }} - {{ project.description }}
-					</a>
-				</div>
-				<div class="smallspacer"></div>
-				<div class="smallnote">
-					Updated
-					<a class="off" href="{{ project.commits.first.url }}">
-					{{ project.commits.first.date | date_to_string }}
-					</a>
-					by
-					<a class="off" href="{{ project.commits.first.author_url }}">
-					{{ project.commits.first.author_login }}
-					</a>
-				</div>
-				<div class="spacer"></div>
-				<div class="spacer"></div>
-			{% endfor %}
-		</div>
-		<div class="bigspacer"></div>
-	</div>
-
-</div>
-
+<div class="bigspacer"></div>
 <div class="bigspacer"></div>
 
-<div class="spacer"></div>
-<ul class="list-inline">
-	{% for page in site.categories.misc %}
-	<li class="footernav">
-		&gt; <a class="off" href="{{ page.url }}">{{ page.title }}</a>
-	</li>
+<div class="row">
+	<div class="col-lg-12">
+		<div class="head">
+			<a class="off" href="/blog/">Recent posts</a>
+		</div>
+		<div class="spacer"></div>
+	</div>
+</div>
+
+<div class="row">
+	{% for post in site.categories.blog limit:4 %}
+
+	{% for member in site.categories.team %}
+		{% if member.title == post.author %}
+			{% assign author = member %}
+		{% endif %}
 	{% endfor %}
-	<li class="footernav">
-		&gt; <a class="off" href="/talks/">Talks</a>
-	</li>
-</ul>
+
+	<div class="col-lg-3 reduced-gutter">
+		<div class="pad-left">
+			<div class="note">
+				<i class="fa fa-comment-o fa-fw"></i>
+				<a class="off" href="{{ post.url }}">
+				{{ post.title }}
+				</a>
+			</div>
+			<div class="smallspacer"></div>
+			<div class="smallnote">
+				Posted
+				{{ post.date | date: "%-d %b %Y" }}
+        {% if post.author %}
+        by <a class="off" href="
+          {% for member in site.categories.team %}
+            {% if member.title == post.author %}
+              {{ member.url }}
+            {% endif %}
+          {% endfor %}
+        ">
+        {{ post.author }}
+        </a>
+        {% endif %}
+        {% if post.authors %}
+        by
+        <a class="off" href="
+          {% for member in site.categories.team %}
+            {% if member.title == post.authors.first %}
+              {{ member.url }}
+            {% endif %}
+          {% endfor %}
+        ">
+        {{ post.authors.first }}
+        </a>
+        and
+        <a class="off" href="
+          {% for member in site.categories.team %}
+            {% if member.title == post.authors.last %}
+              {{ member.url }}
+            {% endif %}
+          {% endfor %}
+        ">
+        {{ post.authors.last }}
+        </a>
+        {% endif %}
+			</div>
+			<div class="bigspacer"></div>
+		</div>
+	</div>
+	{% endfor %}
+</div>
+
+<div class="spacer"></div>
+
+<div class="row">
+	<div class="col-lg-12">
+		<div class="head">
+			<a class="off" href="/papers/">Recent papers</a>
+		</div>
+		<div class="spacer"></div>
+	</div>
+</div>
+
+<div class="row">
+	{% for paper in site.categories.papers limit:4 %}
+	<div class="col-lg-3 reduced-gutter">
+		<div class="pad-left">
+			<div class="note">
+				<i class="fa fa-file-text-o fa-fw"></i>
+				<a class="off" href="{{ paper.url }}">
+				{{ paper.title }}
+				</a>
+			</div>
+			<div class="smallspacer"></div>
+			<div class="smallnote">
+				Posted
+				{{ paper.date | date: "%-d %b %Y" }}
+			</div>
+			<div class="bigspacer"></div>
+		</div>
+	</div>
+	{% endfor %}
+</div>
+
+<div class="spacer"></div>
+
+<div class="row">
+	<div class="col-lg-12">
+		<div class="head">
+			<a class="off" href="/projects/">Active projects</a>
+		</div>
+		<div class="spacer"></div>
+	</div>
+</div>
+
+<div class="row">
+	{% for project in site.data.projects limit:4 %}
+	<div class="col-lg-3 reduced-gutter">
+		<div class="pad-left">
+			<div class="note">
+				<i class="fa fa-edit fa-fw"></i>
+				<a class="off" href="{{ project.url }}">
+				{{ project.title }} - {{ project.description }}
+				</a>
+			</div>
+			<div class="smallspacer"></div>
+			<div class="smallnote">
+				Updated
+				<a class="off" href="{{ project.commits.first.url }}">
+				{{ project.commits.first.date | date: "%-d %b %Y" }}
+				</a>
+				by
+				<a class="off" href="{{ project.commits.first.author_url }}">
+				{{ project.commits.first.author_login }}
+				</a>
+			</div>
+			<div class="bigspacer"></div>
+		</div>
+	</div>
+	{% endfor %}
+</div>
+
+<div class="spacer"></div>
+
+<div class="row">
+	<div class="col-lg-12">
+		<div class="head">
+			Misc
+		</div>
+		<div class="spacer"></div>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-lg-12 reduced-gutter">
+		<div class="pad-left">
+			<ul class="list-inline">
+				{% for page in site.categories.misc %}
+				<li class="footernav list-inline-item">
+					<i class="fa fa-angle-right"></i> <a class="off" href="{{ page.url }}">{{ page.title }}</a>
+				</li>
+				{% endfor %}
+				<li class="footernav list-inline-item">
+					<i class="fa fa-angle-right"></i> <a class="off" href="/talks/">Talks</a>
+				</li>
+				<li class="footernav list-inline-item">
+					<i class="fa fa-angle-right"></i> <a class="off" href="http://www.fredhutch.org/">Fred Hutch</a>
+				</li>
+			</ul>
+		</div>
+		<div class="spacer"></div>
+	</div>
+</div>
+
