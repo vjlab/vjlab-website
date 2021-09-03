@@ -1,4 +1,4 @@
-# Vijaykrishna lab research
+# Vijay lab research
 This is a fork of Trevor Bedfords's website [bedford.io](http://bedford.io).
 
 ## Build site

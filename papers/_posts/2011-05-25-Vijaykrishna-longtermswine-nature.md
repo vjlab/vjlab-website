@@ -4,7 +4,7 @@ title: Long-term evolution and transmission dynamics of swine influenza A viruse
 image: /images/papers/longtermswineflu.png
 authors: Vijaykrishna D, Smith GJD, Pybus OG, Zhuhua C, Bhat S, Poon LLM, Riley S, Bahl J, Ma SK, Cheung CL, Perera RAPM, Chen H, Shortridge KF, Webby RJ, Webster RG, Guan Y & Peiris JSM.  
 year: 2011
-ref: Vijaykrishna et al. 2011. Nature
+ref: Dhanasekaran et al. 2011. Nature
 journal: "Nature 473: 519–522."
 pdf: /pdfs/papers/vijaykrishna(2011a)n.pdf
 supplement: /pdfs/papers/vijaykrishna(2011a)n-si.pdf

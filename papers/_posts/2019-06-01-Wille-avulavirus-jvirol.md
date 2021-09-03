@@ -2,6 +2,7 @@
 layout: paper
 title: Antarctic penguins as reservoirs of diversity for avian avulaviruses
 authors: Wille M, Aban M, Wang J, Moore N, Shan S, Marshall J, González-Acuña D, Vijaykrishna D, Butler J, Wang J, Hall R, Williams D, and Hurt A
+year: 2019
 ref: Wille et al. 2019. Journal of Virology
 journal: "Journal of Virology 93(11): e00271-19"
 pdf: /pdfs/papers/wille.pdf

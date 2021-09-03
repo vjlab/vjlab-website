@@ -4,7 +4,7 @@ title: RNA virus reassortment - An evolutionary mechanism for host jumps and imm
 image: /images/papers/pearls.png
 authors: Vijaykrishna D, Mukherji R, Smith GJD.
 year: 2015
-ref: Vijaykrishna et al. 2015. PLoS Pathogens.
+ref: Dhanasekaran et al. 2015. PLoS Pathogens.
 journal: "PLoS Pathogens 11: e1004902."
 pdf: vijaykrishna(2015a)ppp.pdf
 doi: 10.1371/journal.ppat.1004902
