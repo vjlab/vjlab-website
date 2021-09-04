@@ -35,7 +35,6 @@ exclude:
   - "Gemfile.lock"
   - "s3_website.yml"
   - "blog/_drafts"
-  - "projects/nextflu/auspice/index.html"
 
 projects:
   - vjlab/resources
