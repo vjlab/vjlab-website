@@ -6,8 +6,8 @@ _site/
 s3_website.yml
 
 # Projects
-projects/
-!projects/index.html
+#projects/
+#!projects/index.html
 
 # Jekyll build process
 .jekyll-cache
