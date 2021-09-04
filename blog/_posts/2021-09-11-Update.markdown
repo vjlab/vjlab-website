@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Lab Update
+title:  Pathogen Evolution Lab in HKU
 author: Vijaykrishna Dhanasekaran
 #image: /images/blog/group-photo.jpg
 ---
