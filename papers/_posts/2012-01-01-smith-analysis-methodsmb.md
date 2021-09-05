@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: Genetic analysis.
-authors: Smith GJ, Bahl J, Vijaykrishna D.
+authors: Smith GJ, Bahl J, Dhanasekaran V.
 year: 2012
 ref: Smith et al. 2012. Methods Mol Biol.
 journal: "Methods Mol Biol 865:207–27."

@@ -2,7 +2,7 @@
 layout: paper
 title: Feasibility of reconstructed ancestral H5N1 influenza viruses for cross-clade protective vaccine development.
 image: /images/papers/ancentralvac.png
-authors: Ducatez M, Bahl J, Griffin Y, Stugger-Rosser E, Frank J, Barman S, Vijaykrishna D, Webb A, Guan Y, Webster R, Smith GJD, Webby R.
+authors: Ducatez M, Bahl J, Griffin Y, Stugger-Rosser E, Frank J, Barman S, Dhanasekaran V, Webb A, Guan Y, Webster R, Smith GJD, Webby R.
 year: 2011
 ref: Ducatez et al. 2011. PNAS
 journal: "Proc Nat Acad Sci USA 108: 349-354"

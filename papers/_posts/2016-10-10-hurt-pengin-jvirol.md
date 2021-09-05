@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: Evidence for the introduction, reassortment and persistence of diverse influenza A viruses in Antarctica
-authors: Hurt AC, Su YCF, Aban M, Baas C, Peck H, Lau H, Ellstrom P, Hernandez J, Barr IG, Olsen B, Vijaykrishna D, Gonzalez-Acuna D.  
+authors: Hurt AC, Su YCF, Aban M, Baas C, Peck H, Lau H, Ellstrom P, Hernandez J, Barr IG, Olsen B, Dhanasekaran V, Gonzalez-Acuna D.  
 year: 2016
 ref: Hurt et al. 2016. Journal of Virology.
 journal: "J Virol 90:9674-9682."

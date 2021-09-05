@@ -2,7 +2,7 @@
 layout: paper
 title: Dating the emergence of pandemic influenza viruses.
 image: /images/papers/datingpandemicemergence.png
-authors: Smith GJD, Bahl J, Vijaykrishna D, Zhang JX, Poon LLM, Chen H, Webster RG, Peiris JSM, Guan Y.
+authors: Smith GJD, Bahl J, Dhanasekaran V, Zhang JX, Poon LLM, Chen H, Webster RG, Peiris JSM, Guan Y.
 year: 2009
 ref: Smith et al. 2009. PNAS
 journal: "Smith 106: 11709-11712."

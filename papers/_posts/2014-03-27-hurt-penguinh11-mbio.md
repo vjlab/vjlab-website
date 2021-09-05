@@ -2,7 +2,7 @@
 layout: paper
 title: Detection of evolutionarily distinct avian influenza A viruses in antarctica
 image: /images/papers/penguinh11.png
-authors: Hurt AC, Vijaykrishna D, Butler J, Baas C, de la Fuente MS, Medina-Vogel G, Olsen B, Kelso A, Barr IG, Gonzalez-Acuna D. 
+authors: Hurt AC, Dhanasekaran V, Butler J, Baas C, de la Fuente MS, Medina-Vogel G, Olsen B, Kelso A, Barr IG, Gonzalez-Acuna D. 
 year: 2014
 ref: Hurt et al. 2014. mBio.
 journal: "mBio 5: e01098-14."

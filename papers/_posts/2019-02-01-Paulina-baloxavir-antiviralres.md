@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: Baloxavir marboxil susceptibility of influenza viruses from the Asia-Pacific, 2012–2018
-authors: Koszalka P, Roe M, Tilmanis D, Vijaykrishna D, Hurt AE
+authors: Koszalka P, Roe M, Tilmanis D, Dhanasekaran V, Hurt AE
 ref: Koszalka et al. 2019. Antiviral Research
 journal: "Antiviral Research 164: 91-96"
 pdf: /pdfs/papers/paulina.pdf

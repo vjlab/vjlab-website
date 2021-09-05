@@ -2,7 +2,7 @@
 layout: paper
 title: Identification and molecular characterization of novel and divergent Hobi-like pestiviruses from naturally infected cattle in India. 
 image: /images/papers/pestivirus.png
-authors: Mishra N, Rajukumar K, Pateriya A, Kumar M, Dubey P, Behera SP, Verma A, Bhardwaj P, Kulkarni DD, Vijaykrishna D, Reddy ND.  
+authors: Mishra N, Rajukumar K, Pateriya A, Kumar M, Dubey P, Behera SP, Verma A, Bhardwaj P, Kulkarni DD, Dhanasekaran V, Reddy ND.  
 year: 2014
 ref: Mishra et al. 2014. Veterinary Microbiology.
 journal: "Vet Microbiol 174: 239-246."

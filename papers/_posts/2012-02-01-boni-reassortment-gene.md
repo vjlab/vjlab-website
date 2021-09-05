@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: No evidence for intra-segment recombination of 2009 H1N1 influenza virus in swine.
-authors: Boni MF, Smith GJ, Holmes EC, Vijaykrishna D.
+authors: Boni MF, Smith GJ, Holmes EC, Dhanasekaran V.
 year: 2012
 ref: Boni et al. 2012. Gene
 journal: "Gene 494:242-5."

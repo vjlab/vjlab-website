@@ -2,7 +2,7 @@
 layout: paper
 title: Ancient origins determine global biogeography of hot and cold desert cyanobacteria. 
 image: /images/papers/ancientcyanobacteria.png
-authors: Bahl J, Lau M, Smith GJD, Vijaykrishna D, Cary S, Lacap D, Lee C, Papke R, Warren-Rhodes K, Wong F, McKay C, Pointing SB. 
+authors: Bahl J, Lau M, Smith GJD, Dhanasekaran V, Cary S, Lacap D, Lee C, Papke R, Warren-Rhodes K, Wong F, McKay C, Pointing SB. 
 year: 2011
 ref: Bahl et al. 2011. Nat Comms
 journal: "Nature Communications 2: 163"

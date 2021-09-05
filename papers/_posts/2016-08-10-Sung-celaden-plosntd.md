@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: Extended evaluation of virological, immunological and pharmacokinetic endpoints of CELADEN - a randomized controlled trial of celgosivir in dengue fever patients
-authors: Sung C, Wei Y, Watanabe S, Lee HS, Khoo YM, Fan L, Rathore APS, Chan K W-K, Choy MM, Kamaraj US, Sessions OM, Aw P, Sessions PF, Lee B, Connolly JE, Hibberd ML, Vijaykrishna D, Wijaya L, Ooi EE,  Low J G-H, Vasudevan SG.  
+authors: Sung C, Wei Y, Watanabe S, Lee HS, Khoo YM, Fan L, Rathore APS, Chan K W-K, Choy MM, Kamaraj US, Sessions OM, Aw P, Sessions PF, Lee B, Connolly JE, Hibberd ML, Dhanasekaran V, Wijaya L, Ooi EE,  Low J G-H, Vasudevan SG.  
 year: 2016
 ref: Sung et al. 2016. PLoS Neglected Tropical Diseases.
 journal: "PLoS NTD 10(8):e0004851."

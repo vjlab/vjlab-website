@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: Surveillance and characterization of avian influenza viruses from migratory water birds in eastern Hokkaido, the northern part of Japan, 2009-2010.
-authors: Abao LN, Jamsransuren D, Bui VN, Ngo LH, Trinh DQ, Yamaguchi E, Vijaykrishna D, Runstadler J, Ogawa H, Imai K.
+authors: Abao LN, Jamsransuren D, Bui VN, Ngo LH, Trinh DQ, Yamaguchi E, Dhanasekaran V, Runstadler J, Ogawa H, Imai K.
 year: 2013
 ref: Abao et al. 2013. Virus Genes.
 journal: "Virus Genes 46:323-9."

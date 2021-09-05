@@ -2,7 +2,7 @@
 layout: paper
 title: The contrasting phylodynamics of influenza B viruses. 
 image: /images/papers/elifeflub.png
-authors: Vijaykrishna D, Holmes EC, Joseph U, Fourment M, Su YCF, Halpin R, Chuen RLT, Deng Y-M, Gunalan V, Lin X, Stockwell T, Federova NB, Zhou B, Spirason N, Kühnert D, Veronika B, Stadler T, Costa A-M, Dwyer S, Huang QS, Jennings L, Rawlinson W, Sullivan S, Hurt A, Maurer-Stroh S, Wentworth D, Smith GJD, Barr IG. 
+authors: Dhanasekaran V, Holmes EC, Joseph U, Fourment M, Su YCF, Halpin R, Chuen RLT, Deng Y-M, Gunalan V, Lin X, Stockwell T, Federova NB, Zhou B, Spirason N, Kühnert D, Veronika B, Stadler T, Costa A-M, Dwyer S, Huang QS, Jennings L, Rawlinson W, Sullivan S, Hurt A, Maurer-Stroh S, Wentworth D, Smith GJD, Barr IG. 
 year: 2015
 ref: Dhanasekaran et al. 2015. eLife.
 journal: "eLife 4: e05055."

@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: Adaptive evolution during the establishment of European avian-like H1N1 influenza A virus in swine.
-authors: Joseph U, Vijaykrishna D, Smith GJ, Su YC
+authors: Joseph U, Dhanasekaran V, Smith GJ, Su YC
 year: 2017
 ref: Joseph et al. 2017. Evolutionary Applications
 journal: "Evolutionary Applications 11:534–546"

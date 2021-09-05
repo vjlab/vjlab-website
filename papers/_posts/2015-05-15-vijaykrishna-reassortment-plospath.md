@@ -2,7 +2,7 @@
 layout: paper
 title: RNA virus reassortment - An evolutionary mechanism for host jumps and immune evasion
 image: /images/papers/pearls.png
-authors: Vijaykrishna D, Mukherji R, Smith GJD.
+authors: Dhanasekaran V, Mukherji R, Smith GJD.
 year: 2015
 ref: Dhanasekaran et al. 2015. PLoS Pathogens.
 journal: "PLoS Pathogens 11: e1004902."

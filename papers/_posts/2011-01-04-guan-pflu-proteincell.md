@@ -2,7 +2,7 @@
 layout: paper
 title: The emergence of pandemic influenza viruses.
 #image: /images/papers/pflu.png
-authors: Guan Y, Vijaykrishna D, Bahl J, Zhu H, Wang J, Smith GJ.
+authors: Guan Y, Dhanasekaran V, Bahl J, Zhu H, Wang J, Smith GJ.
 year: 2010
 ref: Guan et al. 2011. Protein and Cell
 journal: "Protein Cell 1: 9-13"

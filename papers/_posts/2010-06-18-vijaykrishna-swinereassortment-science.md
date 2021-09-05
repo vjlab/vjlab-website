@@ -2,7 +2,7 @@
 layout: paper
 title: Reassortment of pandemic H1N1/2009 viruses in swine.
 image: /images/papers/swinescience.png
-authors: Vijaykrishna D, Poon LLM, Zhu HC, Ma SK, Li OTW, Cheung CL, Smith GJD, Peiris JSM, Guan Y.
+authors: Dhanasekaran V, Poon LLM, Zhu HC, Ma SK, Li OTW, Cheung CL, Smith GJD, Peiris JSM, Guan Y.
 year: 2010
 ref: Dhanasekaran et al. 2010. Science
 journal: "Science 328: 1529."

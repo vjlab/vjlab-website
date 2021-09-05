@@ -2,7 +2,7 @@
 layout: paper
 title: Preexisting CD8+ T-cell immunity to the H7N9 influenza A virus varies across ethnicities
 image: /images/papers/preexistingcd8.png
-authors: Quiñones-Parra S, Grant EJ, Loh L, Nguyen THO, Campbell K-A, Tong S, Miller A, Doherty PC, Vijaykrishna D, Rossjohn J, Gras S, Kedzierska K.
+authors: Quiñones-Parra S, Grant EJ, Loh L, Nguyen THO, Campbell K-A, Tong S, Miller A, Doherty PC, Dhanasekaran V, Rossjohn J, Gras S, Kedzierska K.
 year: 2014
 ref: Quinones-Parra et al. 2014. PNAS.
 journal: "PNAS 111: 1049-1054."
