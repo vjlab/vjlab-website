@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: Ecological drivers of virus evolution - Astrovirus as a case study.
-authors: Mendenhall IH, Smith GJD, Vijaykrishna D.
+authors: Mendenhall IH, Smith GJD, Dhanasekaran V.
 year: 2015
 ref: Mendenhall et al. 2015. J Virol.
 journal: "J Virol 89: 6978-6981"

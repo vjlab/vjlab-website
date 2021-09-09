@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: FusC, a member of the M16 protease family acquired by bacteria for iron piracy against plants.
-authors: Grinter R, Hay ID, Song J, Wang J, Teng D, Vijaykrishna D, Wilksch J, Davies MR, Littler D, Beckham SA, Henderson IR, Strugnell RA, Dougan G and Lithgow T
+authors: Grinter R, Hay ID, Song J, Wang J, Teng D, Dhanasekaran V, Wilksch J, Davies MR, Littler D, Beckham SA, Henderson IR, Strugnell RA, Dougan G and Lithgow T
 year: 2018
 ref: Grinter et al. 2018. PLoS Biology
 journal: "PLoS Biology 16(8):e2006026"

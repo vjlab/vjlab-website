@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: The ecology and adaptive evolution of influenza A interspecies transmission
-authors: Joseph U, Su YCF, Vijaykrishna D, Smith GJD.   
+authors: Joseph U, Su YCF, Dhanasekaran V, Smith GJD.   
 year: 2016
 ref: Joseph et al. 2016. Influenza and Other Respiratory Viruses.
 journal: "Influenza Other Respir Viruses 2016:1-11."

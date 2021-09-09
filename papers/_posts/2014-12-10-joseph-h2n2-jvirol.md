@@ -2,7 +2,7 @@
 layout: paper
 title: Adaptation of pandemic H2N2 influenza A viruses in humans.  
 image: /images/papers/h2n2adaptation.png
-authors: Joseph U, Linster M, Suzuki Y, Kraus S, Rebecca H, Vijaykrishna D, Bestebroer T, Maurer-Stroh S, Webby R, Wentworth D, Fouchier RA, Bahl J, Smith GJD, members of the CEIRS H2N2 Working Group. 
+authors: Joseph U, Linster M, Suzuki Y, Kraus S, Rebecca H, Dhanasekaran V, Bestebroer T, Maurer-Stroh S, Webby R, Wentworth D, Fouchier RA, Bahl J, Smith GJD, members of the CEIRS H2N2 Working Group. 
 year: 2014
 ref: Joseph et al. 2015. J Virol.
 journal: "J Virol 89: 2442-2447."

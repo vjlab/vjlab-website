@@ -2,7 +2,7 @@
 layout: paper
 title: Origins and evolutionary genomics of the 2009 swine-origin H1N1 influenza A epidemic.
 image: /images/papers/ph1n1origins.png
-authors: Smith GJD, Vijaykrishna D, Bahl J, Lycett SJ, Worobey M, Pybus OGP, Ma SK, Cheung CL, Raghwani J, Bhatt, S, Peiris JSM, Guan Y, Rambaut A.
+authors: Smith GJD, Dhanasekaran V, Bahl J, Lycett SJ, Worobey M, Pybus OGP, Ma SK, Cheung CL, Raghwani J, Bhatt, S, Peiris JSM, Guan Y, Rambaut A.
 year: 2009
 ref: Smith et al. 2009. Nature
 journal: "459: 1122-1126."

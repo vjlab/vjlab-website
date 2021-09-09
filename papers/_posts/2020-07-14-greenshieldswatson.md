@@ -2,7 +2,7 @@
 layout: paper
 title: CD4<sup>+</sup> T Cells Recognize Conserved Influenza A Epitopes through Shared Patterns of V-Gene Usage and Complementary Biochemical Features
 image: /images/papers/greenshields.png
-authors: Greenshields-Watson A, Attaf M, MacLachlan BJ, Whalley T, Rafael CR, Wall A, Lloyd A, Hughes H, Strange KE, Mason GH, Schauenburg A, Hulin-Curtis SL, Geary J, Chen Y, Lauder SN, Smart K, Vijaykrishna D, Grau ML, Shugay M, Andrews R, Dolton G, Rizkallah PJ, Gallimore AM, Sewell AK, Godkin AJ, Cole DK
+authors: Greenshields-Watson A, Attaf M, MacLachlan BJ, Whalley T, Rafael CR, Wall A, Lloyd A, Hughes H, Strange KE, Mason GH, Schauenburg A, Hulin-Curtis SL, Geary J, Chen Y, Lauder SN, Smart K, Dhanasekaran V, Grau ML, Shugay M, Andrews R, Dolton G, Rizkallah PJ, Gallimore AM, Sewell AK, Godkin AJ, Cole DK
 year: 2020
 ref: Greenshields-Watson et al. 2020. Cell Reports
 journal: "Cell Reports 32 (2): 107885" 

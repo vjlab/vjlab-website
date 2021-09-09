@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: Evidence for viral interference and cross-reactive protective immunity between influenza B lineages.
-authors: Laurie KL, Horman W, Carolan LA, Chan KF, Layton D, Bean A, Vijaykrishna D, Reading P, McKaw J, Barr IG. 
+authors: Laurie KL, Horman W, Carolan LA, Chan KF, Layton D, Bean A, Dhanasekaran V, Reading P, McKaw J, Barr IG. 
 year: 2017
 ref: Laurie et al. 2017. The Journal of Infectious Diseases
 journal: "The Journal of Infectious Diseases  217(4):548–559"

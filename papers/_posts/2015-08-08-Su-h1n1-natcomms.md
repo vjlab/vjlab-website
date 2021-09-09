@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: Phylodynamics of H1N1/2009 influenza reveals the transition from host adaptation to immune-driven selection.
-authors: Su YCF, Bahl J, Joseph U, Butt KM, Peck HA, Koay ESC, Oon LLE, Barr IG, Vijaykrishna D, Smith GJD.  
+authors: Su YCF, Bahl J, Joseph U, Butt KM, Peck HA, Koay ESC, Oon LLE, Barr IG, Dhanasekaran V, Smith GJD.  
 year: 2015
 ref: Su et al. 2015. Nature Communications.
 journal: "Nature Communications 6: 7952."

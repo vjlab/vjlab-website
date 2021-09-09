@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: Differential age susceptibility to influenza B/Victoria lineage viruses in the 2015 Australian influenza season
-authors: Barr IG, Vijaykrishna D, Sullivan S.  
+authors: Barr IG, Dhanasekaran V, Sullivan S.  
 year: 2016
 ref: Barr et al. 2016. Eurosurveillance.
 journal: "Eurosurveillance 21(4):pii=30118."

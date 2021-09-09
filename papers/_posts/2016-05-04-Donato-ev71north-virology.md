@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: Genetic characterization of Enterovirus 71 strains circulating in Vietnam in 2012
-authors: Donato C, Hoi LT, Hoa NT, Hoa TM, Duyet LV, Ngan TTD, Kinh NV, Trung NV, Vijaykrishna D.  
+authors: Donato C, Hoi LT, Hoa NT, Hoa TM, Duyet LV, Ngan TTD, Kinh NV, Trung NV, Dhanasekaran V.  
 year: 2016
 ref: Donato et al. 2016. Virology.
 journal: "Virology 495:1-9."

@@ -2,7 +2,7 @@
 layout: paper
 title: Evolutionary dynamics and emergence of panzootic H5N1 influenza viruses.
 image: /images/papers/vijayh5n1.png
-authors: Vijaykrishna D, Bahl J, Riley S, Duan L, Zhang J, Chen H, Peiris JSM, Smith GJD, Guan Y.
+authors: Dhanasekaran V, Bahl J, Riley S, Duan L, Zhang J, Chen H, Peiris JSM, Smith GJD, Guan Y.
 year: 2008
 ref: Dhanasekaran et al. 2008. PLoS Pathogens
 journal: "4: e1000161."

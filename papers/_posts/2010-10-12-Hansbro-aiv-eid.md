@@ -2,7 +2,7 @@
 layout: paper
 title: Surveillance and analysis of avian influenza viruses, Australia.
 image: /images/papers/aivaus.png
-authors: Hansbro PM, Warner S, Tracey JP, Arzey KE, Selleck P, O’Riley K, Beckett E, Bunn C, Kirkland PD, Vijaykrishna D, Olsen B & Hurt AC. 
+authors: Hansbro PM, Warner S, Tracey JP, Arzey KE, Selleck P, O’Riley K, Beckett E, Bunn C, Kirkland PD, Dhanasekaran V, Olsen B & Hurt AC. 
 year: 2010
 ref: Hansbro et al. 2010. Emerg Infect Dis.
 journal: "Emerg Infect Dis 16: 1896-1904."

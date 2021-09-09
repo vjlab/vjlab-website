@@ -1,5 +1,5 @@
 name: Pathogen Evolution Lab
-description: Virus evolution epidemiology and phylodynamics
+description: evolution epidemiology and phylodynamics
 url: http://vjlab.io
 
 markdown: kramdown
@@ -34,8 +34,8 @@ exclude:
   - "Gemfile"
   - "Gemfile.lock"
   - "s3_website.yml"
+  - "blog/_drafts"
 
 projects:
-#  - vdha/bms5003-week3
-#  - Don86/mic-scrapbook
   - vjlab/resources
+  - vjlab/kpiib_st2727

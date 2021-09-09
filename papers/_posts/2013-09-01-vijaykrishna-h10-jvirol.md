@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: The recent establishment of North American H10 lineage influenza viruses in Australian wild waterfowl and the evolution of Australian avian influenza viruses.
-authors: Vijaykrishna D, Deng YM, Su YC, Fourment M, Iannello P, Arzey GG, Hansbro PM, Arzey KE, Kirkland PD, Warner S, O'Riley K, Barr IG, Smith GJ, Hurt AC.
+authors: Dhanasekaran V, Deng YM, Su YC, Fourment M, Iannello P, Arzey GG, Hansbro PM, Arzey KE, Kirkland PD, Warner S, O'Riley K, Barr IG, Smith GJ, Hurt AC.
 year: 2013
 ref: Dhanasekaran et al. 2013. J Viol.
 journal: "J Virol 87:10182-9."

@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: The Broad Host Range and Genetic Diversity of Mammalian and Avian Astroviruses.
-authors: Donato C, Vijaykrishna D
+authors: Donato C, Dhanasekaran V.
 year: 2017
 ref: Donato and Vijaykrishna. 2017. Viruses.
 journal: "Viruses 9(5). pii: E102"

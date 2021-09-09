@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: Inferring patterns of influenza transmission in swine from multiple streams of surveillance data.
-authors: Strelioff CC, Vijaykrishna D, Riley S, Guan Y, Peiris JS, Lloyd-Smith JO.
+authors: Strelioff CC, Dhanasekaran V, Riley S, Guan Y, Peiris JS, Lloyd-Smith JO.
 year: 2013
 ref: Strelioff et al. 2013. Proc Biol Sci.
 journal: "Proceedings B 280:20130872."

@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: A role of influenza exposure history in determining pandemic susceptibility and CD8+ T cell responses
-authors: Quiñones-Parra S, Clemens B, Wang Z, Croom HA, Kedzierski L, McVernon J, Vijaykrishna D, Kedzierska K.  
+authors: Quiñones-Parra S, Clemens B, Wang Z, Croom HA, Kedzierski L, McVernon J, Dhanasekaran V, Kedzierska K.  
 year: 2016
 ref: Quinones-Parra et al. 2016. Journal of Virology.
 journal: "J Virol 90:6936-6947."

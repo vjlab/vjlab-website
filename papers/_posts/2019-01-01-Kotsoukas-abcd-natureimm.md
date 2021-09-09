@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: Universally cross-reactive CD8+ T cell immunity across influenza A, B and C viruses
-authors: Koutsakos M, Illing P, Nguyen THO, Mifsud NA, Crawford JC, Rizzetto S, Eltahla, Clemens EB, Sant S, Chua BY, Wong CY, Allen EK, Teng D, Dash P, Grzelak L, Zeng W, Hurt A, Barr IG, Rockman S, Jackson DC, Kotsimbos TC, Cheng AC, Richard M, Westall GP, Wakim LM, Rossjohn J, Vijaykrishna D, Luciani F, Thomas PG, Gras S, Purcell AW, Kedzierska K.
+authors: Koutsakos M, Illing P, Nguyen THO, Mifsud NA, Crawford JC, Rizzetto S, Eltahla, Clemens EB, Sant S, Chua BY, Wong CY, Allen EK, Teng D, Dash P, Grzelak L, Zeng W, Hurt A, Barr IG, Rockman S, Jackson DC, Kotsimbos TC, Cheng AC, Richard M, Westall GP, Wakim LM, Rossjohn J, Dhanasekaran V, Luciani F, Thomas PG, Gras S, Purcell AW, Kedzierska K.
 ref: Kotsoukas et al. 2019. Nature Immunology
 journal: "Nature Immunology 20:613-625"
 pdf: /pdfs/papers/kotsoukas(2019)natureimm.pdf
