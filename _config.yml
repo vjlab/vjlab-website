@@ -37,6 +37,5 @@ exclude:
   - "blog/_drafts"
 
 projects:
-  - vjlab/dips
   - xieruopeng/HKU_HPC2015
   - vjlab/resources  
