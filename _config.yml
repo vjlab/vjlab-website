@@ -38,4 +38,5 @@ exclude:
 
 projects:
   - xieruopeng/HKU_HPC2015
-  - vjlab/resources  
+  - vjlab/resources
+  - vjlab/Human-Flu-Under-COVID
