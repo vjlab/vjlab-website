@@ -54,9 +54,6 @@ jobs:
           paths:
             - vendor/bundle
       - run:
-          name: Process projects from other git
-          command: ruby _scripts/update-and-preprocess.rb
-      - run:
           name: Jekyll build
           command: JEKYLL_ENV=production bundle exec jekyll build
       - run:
