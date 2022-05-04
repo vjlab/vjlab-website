@@ -15,7 +15,6 @@ config["projects"].each do |repo|
 	`git clean -f`										# remove untracked files, but keep directories
 	`git reset --hard HEAD`								# bring back to head state
 	`git pull origin master`							# git pull
-	'rm -Rf .git*'					
 end
 
 Dir.chdir($basedir)
