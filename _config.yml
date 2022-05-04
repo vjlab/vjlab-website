@@ -37,5 +37,4 @@ exclude:
   - "blog/_drafts"
 
 projects:
-  - xieruopeng/HKU_HPC2015
-  - vjlab/resources
+  - vjlab/rsv-visualization
