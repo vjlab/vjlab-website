@@ -35,10 +35,7 @@ jobs:
     environment:
       BUNDLE_PATH: ~/repo/vendor/bundle
     steps:
-      - checkout:
-          post:
-          - git submodule sync
-          - git submodule update --init --recursive || (rm -fr .git/config .git/modules && git submodule deinit -f . && git submodule update --init --recursive)
+      - checkout
       - restore_cache:
           keys:
             - rubygems-v1-{{ checksum "Gemfile.lock" }}
