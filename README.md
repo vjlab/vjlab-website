@@ -1,6 +1,6 @@
 # Pathogen Evolution lab
 
-This site was developed based on source code from Trevor Bedfords's website [bedford.io](http://bedford.io).
+This site was developed using source code from Trevor Bedfords's website [bedford.io](http://bedford.io).
 
 ## Build site
 
